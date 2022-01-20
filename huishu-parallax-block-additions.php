@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       HUisHU Parallax Block Additions
  * Description:       Add Parallax Effect to Block Images
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.8
  * Requires PHP:      7.3
  * Author:            HUisHU. Digitale Kreativagentur.
