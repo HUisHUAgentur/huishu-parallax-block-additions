@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
  */
  function observe(selector, callback) {
     const elements = [].slice.call(document.querySelectorAll(selector));
-    const options = { };
+    const options = { rootMargin: "200px 0px 200px 0px" };
 
     const observer = new IntersectionObserver(callback, options);
 
